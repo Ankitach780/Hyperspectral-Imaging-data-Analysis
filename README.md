@@ -1,6 +1,6 @@
 # 🎉 Streamlit Project
 
-Welcome to the **Streamlit** application! This app does **[describe what your app does, e.g., "predicts house prices based on input data"]**. 🚀
+Welcome to the **Streamlit** application! This app process the multispectral image and give the mycotoxin level prediction. 🚀
 
 ## 🛠️ Requirements
 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 To run the Streamlit app locally, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone [https://github.com/Ankitach780/Hyperspectral-Imaging-data-Analysis]
 cd YOUR-REPOSITORY
 
 2. Install the required dependencies:
